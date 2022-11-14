@@ -1,0 +1,9 @@
+site_name: Ceramic Docs
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox
+
